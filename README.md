@@ -26,6 +26,4 @@
 - [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/pdf/2502.20339)  
 - [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)  
 
----
 
-Now all links follow the correct format, with the paper title as the clickable text and the ArXiv URL correctly formatted. 🚀
