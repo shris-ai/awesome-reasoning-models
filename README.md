@@ -4,7 +4,7 @@
 
 ## Thinking Techniques
 
-- [ https://arxiv.org/abs/2201.11903 ](Chain-of-Thought Prompting Elicits Reasoning in Large Language Models)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [https://arxiv.org/abs/2305.10601](Tree of Thoughts: Deliberate Problem Solving with Large Language Models)
 - [https://arxiv.org/abs/2404.15758](Let's Think Dot by Dot: Hidden Computation in Transformer Language Models)
 - [https://arxiv.org/abs/2310.02226](Think before you speak: Training Language Models With Pause Tokens)
