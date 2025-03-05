@@ -1,7 +1,3 @@
-Here's the corrected format where all links follow the correct structure:  
-
----
-
 # awesome-reasoning-models  
 
 # Research Papers  
