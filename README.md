@@ -1,4 +1,3 @@
-# awesome-reasoning-models  
 
 # Reasoning Models
 - [IBM Granite 3.2](https://www.ibm.com/new/announcements/ibm-granite-3-2-open-source-reasoning-and-vision) | [View the model on Huggingface] (https://huggingface.co/collections/ibm-granite/granite-32-language-models-67b3bc8c13508f6d064cff9a)
@@ -86,6 +85,7 @@
 ## Latent Reasoning
 
 - [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
+- [Coconut: Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
 
 ## Retrieve & Reason
 
